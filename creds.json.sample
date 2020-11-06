@@ -1,0 +1,9 @@
+{
+    "spotify": {
+        "client_id": "id",
+        "client_secret": "secret"
+    },
+    "genius": {
+        "client_access_token": "token"
+    }
+}
