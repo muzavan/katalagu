@@ -54,11 +54,11 @@ You can get it in [Spotify for Developer](https://developer.spotify.com/) page a
 
 Several katalagu's result (title, artist, lyrics) from playlist that I listen to lately. 
 
-| Playlist      	| JSON                                            	|
+| Playlist      	| Data                                            	|
 |--------------	|---------------------------------------------------	|
 | [This is Dewa](https://open.spotify.com/playlist/37i9dQZF1DXbcrxvoaNyDy)    	| [JSON](./raw/lyric/37i9dQZF1DXbcrxvoaNyDy.json)                       	|
 | [This is: Noah](https://open.spotify.com/playlist/37i9dQZF1DWW21j5DuKqBx) 	| [JSON](./raw/lyric/37i9dQZF1DWW21j5DuKqBx.json)                        	|
-| [Indonesia 2000an](https://open.spotify.com/playlist/758B9GF7qrfggUiLkhEC1q?si=ZR4hPvOqSdKpNcJ3b6vblw) 	| [JSON](./raw/lyric/758B9GF7qrfggUiLkhEC1q.json)                                            	|
+| [Indonesia 2000an](https://open.spotify.com/playlist/758B9GF7qrfggUiLkhEC1q?si=ZR4hPvOqSdKpNcJ3b6vblw) 	| [JSON](./raw/lyric/758B9GF7qrfggUiLkhEC1q.json), [Analysis Example (in Bahasa)](./showcase/indonesia_2000an.ipynb)                                         	|
 
 
 # Attribution
